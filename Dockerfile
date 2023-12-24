@@ -1,5 +1,5 @@
 FROM tomcat:8.0.20-jre8
-#### Good stuff.Amen
-## jesus is Lord.Amen 
-# thanks members.
+#### Good stuff.
+## jesus is Lord.
+# thanks members.Amen Amen
 COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
